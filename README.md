@@ -1,7 +1,9 @@
 # pokedexGuide
 
 #Features
--Pokémon Information: Information about each Pokémon, such as its ID, strength, weight and element. 
+-Pokémon Information: 
+
+-Information about each Pokémon, such as its ID, strength, weight and element. 
 
 -Element Colors: Pokémon are colored according to their elements.
 
@@ -12,6 +14,7 @@
 -Responsive Design: The site is designed to be perfectly responsive with all its content (desktop, tablet, mobile).
 
 #Languages Used:
+
 -JavaScript
 
 -Html
